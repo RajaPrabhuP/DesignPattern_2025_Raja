@@ -10,6 +10,7 @@ public class PaymentModule {
 		strategy.displayBalance();
 		strategy.displayCardType();
 		strategy.displayPassword();
+		strategy.displayPassword();
 		
 
 	}
